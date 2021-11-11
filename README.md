@@ -1,1 +1,11 @@
-# Presentations
+## Research Showcase (Presentations / Talks)
+- Nov 2021. (Virtual) University of Denver - Computer Science 
+- Nov 2021. (Virtual) Facebook Capacity Engineering Research
+- Nov 2021. (Berkley, CA) Simons Institute [IFML/CCSI Symposium](https://simons.berkeley.edu/programs/si2021) 
+- Aug 2021. (Virtual) Facebook AI Research 
+- Aug 2020. (Virtual) Microsoft Azure AI 
+- April 2021. (Virtual) [NSF-TRIPODS Workshop - CEDO](https://sites.google.com/ucsd.edu/cedo/)  
+- Nov 2019. (Austin, Tx) [UT Austin Graduate Research Showcase](https://guides.lib.utexas.edu/2019GRS/presenters)
+- Nov 2019. (Austin, Tx) [Texas Wireless Summit](https://www.texaswirelesssummit.org/)
+- Jan 2019. (Honolulu, Hawaii) [AAAI 2019](https://aaai.org/Conferences/AAAI-19/)
+- May 2018. (Seattle, WA) [Amazon Machine Learning Conference]()
