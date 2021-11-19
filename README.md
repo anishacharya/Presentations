@@ -1,9 +1,9 @@
 ## Research Showcase (Presentations / Talks)
-- Nov 2021. (Virtual) Facebook Capacity Engineering Research
-- Nov 2021. (Virtual) University of Denver - Computer Science 
-- Nov 2021. (Berkley, CA) Simons Institute [IFML/CCSI Symposium](https://simons.berkeley.edu/programs/si2021) 
-- Oct 2021. (Virtual) Facebook AI Research
-- Aug 2021. (Virtual) Facebook Capacity Engineering Research
+- Nov 2021. (Virtual) Facebook Capacity Engineering Research ; [Slides](https://github.com/anishacharya/Presentations/blob/main/FB_Ads_Fall_2021.pptx)
+- Nov 2021. (Virtual) University of Denver - Computer Science ; [Slides](https://github.com/anishacharya/Presentations/blob/main/univ_denver_talk_fed.pptx)   
+- Nov 2021. (Berkley, CA) Simons Institute [IFML/CCSI Symposium](https://simons.berkeley.edu/programs/si2021)  ;  [Poster](https://github.com/anishacharya/Presentations/blob/main/Simons.Fall.2021.pdf)
+- Oct 2021. (Virtual) Facebook AI Research ; [Slides](https://github.com/anishacharya/Presentations/blob/main/FAIR_Fall_2021.pdf)
+- Aug 2021. (Virtual) Facebook Capacity Engineering Research ; [internal fb link]()
 - April 2021. (Virtual) [NSF-TRIPODS Workshop - CEDO](https://sites.google.com/ucsd.edu/cedo/)  
 - Aug 2020. (Virtual) Microsoft Azure AI 
 - Nov 2019. (Austin, Tx) [UT Austin Graduate Research Showcase](https://guides.lib.utexas.edu/2019GRS/presenters)
